@@ -1,0 +1,4 @@
+2024-03-22T06:30:16+00:00 INFO Payment gateway enabled: "Trả tiền mặt khi nhận hàng"
+2024-03-22T06:36:20+00:00 INFO Payment gateway enabled: "Chuyển khoản ngân hàng"
+2024-03-22T06:36:25+00:00 INFO Payment gateway enabled: "Kiểm tra thanh toán"
+2024-03-22T19:16:15+00:00 INFO Payment gateway enabled: "Chuyển khoản ngân hàng (Quét mã VietQR)"
